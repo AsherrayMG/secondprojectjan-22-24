@@ -1,0 +1,46 @@
+form{
+    padding: 40px;
+    background-color: maroon;
+    margin: auto;
+    width: 50%;
+    padding-left: 30px;
+    height: 100%;
+
+
+}
+input{
+    margin-top: 20px;
+
+}
+button{
+    width: 100%;
+}
+#name{
+    margin-left: 100px;
+}
+#Email{
+    margin-left: 110px;
+}
+#pwd{
+    margin-left: 80px;
+}
+#pno{
+    margin-left: 30px;
+}
+.MALE{
+    margin-left: 95px;
+}
+#language{
+    margin-left: 80px;
+    width: 150px;
+}
+#zip{
+    margin-left: 85px;
+}
+#about{
+    margin-left: 100px;
+}
+
+body{
+    background-color: #ef6969;
+}

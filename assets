@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Gallery</title>
+    <style>
+        hi{
+            background-color: black;
+            color: white;
+            text-align: center;
+            line-height: 90px;
+        }
+
+        img{
+            width: 400px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+<h1>MY GALLERY</h1>
+<img src="assets/arb.avif" alt="">
+<img src="assets/book.avif" alt="">
+<img src="assets/byt.webp" alt="">
+<img src="assets/esg.webp" alt="">
+<img src="assets/fear.webp" alt="">
+<img src="assets/blue.jpeg" alt="">
+<
+</body>
+</html>
